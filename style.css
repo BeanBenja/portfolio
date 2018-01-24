@@ -1,0 +1,31 @@
+@font-face{
+    font-family: Roboto;
+    src: url('font/RobotoCondensed-Regular.ttf');
+}
+@font-face{
+    font-family: RobotoBold;
+    src: url('font/RobotoCondensed-Bold.ttf');
+}
+li a, .card{
+    font-family: "Roboto";
+    font-size: 1.8rem;
+}
+li{
+    letter-spacing: 2px;
+}
+ul li a{
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+.imgCenter{
+    margin: auto;
+}
+.Ptable{
+    border: none;
+}
+.left{
+    background-color:rgb(245, 245, 243);
+}
+.hr{
+    border-top-color: #77777747;
+}
