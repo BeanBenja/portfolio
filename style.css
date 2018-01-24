@@ -6,12 +6,12 @@
     font-family: RobotoBold;
     src: url('font/RobotoCondensed-Bold.ttf');
 }
-li a, .card{
+li a, .card, p, a{
     font-family: "Roboto";
     font-size: 1.8rem;
 }
 li{
-    letter-spacing: 2px;
+    padding-right: 20px;
 }
 ul li a{
     padding-right: 2rem;
@@ -22,4 +22,9 @@ ul li a{
 }
 .Ptable{
     border: none;
+}
+footer{
+    background-color: darkgrey;
+    color: #f5f5f5;
+    padding: 32px;
 }
