@@ -6,7 +6,7 @@
     font-family: RobotoBold;
     src: url('font/RobotoCondensed-Bold.ttf');
 }
-li a, .card, p, a{
+li a, .panel, p, a{
     font-family: "Roboto";
     font-size: 1.8rem;
 }
