@@ -13,18 +13,14 @@ li a, .card, p, a{
 li{
     padding-right: 20px;
 }
-ul li a{
-    padding-right: 2rem;
-    padding-left: 2rem;
-}
 .imgCenter{
     margin: auto;
 }
 .Ptable{
     border: none;
 }
-#footer{
+footer{
     background-color: darkgrey;
     color: #f5f5f5;
-    padding: 30px;
+    padding: 32px;
 }
